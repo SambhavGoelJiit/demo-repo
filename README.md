@@ -1,3 +1,3 @@
-# Demo README file
+# DEMO
 
-demo description!
+Hello world program in C++;
